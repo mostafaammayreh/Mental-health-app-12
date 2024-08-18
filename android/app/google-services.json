@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845134107929",
+    "project_id": "fireauth-c7181",
+    "storage_bucket": "fireauth-c7181.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845134107929:android:cb3210cc8d37ae93ade188",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaKliongIE4u53OK9aTXFkQRFrvud_Stw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
